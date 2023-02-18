@@ -3,8 +3,8 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# Brevemente
+Ao Serviço do Movimento Associativo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+**federacaocoletividadesgaia@gmail.com**
 

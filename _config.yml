@@ -1,6 +1,6 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: Brevemente
 
 # Site description
 description: A fancy description of the site
@@ -9,31 +9,32 @@ description: A fancy description of the site
 background: "images/background.jpg"
 
 # Site logo
-logo: "images/logo.png"
+logo: "images/logo_fcvng.jpg"
 
 # Countdown clock
 # (This can be commented out if not required.)
-countdown:
+#countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2030-01-01
+  #launch_date: 2030-01-01
   # %d, %H, %M, %S available
-  format: "%d days, %H hours, %M minutes, %S seconds"
+  #format: "%d days, %H hours, %M minutes, %S seconds"
 
 # Mailing list subscription
 # (This can be commented out if not required.)
-subscribe:
-  action: "/thank-you"
+#subscribe:
+#  action: "/thank-you"
 
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "#"
-  twitter: "#"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+  title: Segue-nos
+  facebook: "coletividadesgaia"
+  #twitter: "#"
+  #google: "#"
+  instagram: "coletividadesdegaia"
+  #pinterest: "#"
+  #snapchat: "#"
+  #linkedin: "in/#"
 
 # Build settings
 markdown: kramdown
